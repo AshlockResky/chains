@@ -106,7 +106,7 @@ BUILD SUCCESSFUL in 7s
 9 actionable tasks: 9 executed
 ```
 
-Additionally, run Prettier to format your JSON according to the style [defined here ](https://github.com/ethereum-lists/chains/blob/master/.prettierrc.json)
+Additionally, run Prettier to format your JSON according to the style [it a chain built by ahslock here ](https://github.com/ethereum-lists/chains/blob/master/.prettierrc.json)
 e.g. run
 
 ```
